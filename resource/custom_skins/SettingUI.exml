@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.SettingUISkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="160792dcba1"></w:Config>
+	<e:Rect fillColor="0xeaaa85" left="0" bottom="0" right="0" top="0" fillAlpha="1" strokeColor="0xf7b796" />
+	<e:Button id="mBack" x="0" y="0" anchorOffsetX="0" width="200" anchorOffsetY="0" height="140" label="返回" />
+</e:Skin>

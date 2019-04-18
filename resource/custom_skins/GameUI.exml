@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.GameUISkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="1607477ab26"></w:Config>
+	<e:Group left="0" right="0" top="0" height="100">
+		<e:Rect right="0" left="0" top="0" bottom="0" />
+		<e:Button id="mBack" anchorOffsetX="0" width="140" anchorOffsetY="0" height="100" label="返回" x="0" y="0" />
+		<e:Label id="mPlayer1" text="" anchorOffsetX="0" width="250" top="0" bottom="0" left="140"  verticalAlign="middle"/>
+		<e:Label id="mPlayer2" height="100" width="250" text="" anchorOffsetX="0" y="0" x="390"  verticalAlign="middle"/>
+	</e:Group>
+	<e:Group left="0" right="0" top="100" bottom="0">
+		<e:Image left="0" right="0" top="0" bottom="0" source="bg_png" />
+		<e:Label id="mCurrentPlayer" text="" anchorOffsetX="0" width="200"  verticalAlign="middle" height="100" top="0" horizontalCenter="0" textColor="0x000000"/>
+		<e:Group id="mGameBg" verticalCenter="0" left="0" right="0" height="640">
+	
+
+		</e:Group>
+	</e:Group>
+</e:Skin>
